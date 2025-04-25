@@ -34,8 +34,9 @@ This project performs sentiment analysis on news headlines related to publicly t
 
 ## Example Stock Symbols
 
+```
 MSFT, AAPL, NVDA, AMZN, GOOG, GOOGL, META, BRK/A, BRK/B, LLY
-
+```
 
 ## Azure Integration
 
