@@ -48,9 +48,3 @@ Make sure to update the following values in the script for Azure Blob upload:
 ## Note
 
 Your NewsAPI key and Azure Blob Storage credentials should be stored securely. Avoid uploading `.apikey` or `.env` files to GitHub.
-
-## To Do
-
-- Improve sentiment accuracy using advanced NLP models  
-- Add visualizations for sentiment distribution  
-- Support historical sentiment tracking  
